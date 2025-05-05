@@ -1,0 +1,51 @@
+package main
+
+import "fmt"
+
+func main() {
+	// Nomor 1
+	var f_name string = "Muhammad"
+	l_name := "Daffa"
+
+	var university, npm string = "Gunadarma", "51422004"
+
+	fmt.Println("Haii nama saya", f_name, l_name)
+	fmt.Println("Saya berkuliah di Universitas", university, "dengan NPM", npm)
+	fmt.Println("-----------------------------------------------")
+	
+	// Nomor 2
+	const pi = 22/7
+	
+	var jari int
+	fmt.Print("Masukkan panjang jari-jari : ")
+	fmt.Scan(&jari)
+
+	luas := pi * (jari * jari)
+	fmt.Println("Luas lingkaran : ", luas)
+	fmt.Println("-----------------------------------------------")
+
+	// Nomor 3
+	var nilai1, nilai2 int
+	fmt.Print("Masukkan nilai 1 : ")
+	fmt.Scan(&nilai1)
+	fmt.Print("Masukkan nilai 2 : ")
+	fmt.Scan(&nilai2)
+
+	fmt.Println(nilai1 + nilai2)
+	fmt.Println(nilai1 - nilai2)
+	fmt.Println(nilai1 * nilai2)
+	fmt.Println(nilai1 / nilai2)
+	fmt.Println(nilai1 % nilai2)
+
+	fmt.Println(nilai1 == nilai2)
+	fmt.Println(nilai1 != nilai2)
+	fmt.Println(nilai1 > nilai2)
+	fmt.Println(nilai1 < nilai2)
+	fmt.Println(nilai1 >= nilai2)
+	fmt.Println(nilai1 <= nilai2)
+	fmt.Println("-----------------------------------------------")
+
+	// Nomor 4
+	defer fmt.Println("----SELESAI----")
+	fmt.Println("Introduction To Go Programming Language Pertemuan 2")
+}
