@@ -1,4 +1,4 @@
-Urutan ngerjain:
+Urutan ngerjain bro
 
 1. Buat database user_npm
 2. Buat tabel data_user. Biar langsung jadi pake pert4.sql
