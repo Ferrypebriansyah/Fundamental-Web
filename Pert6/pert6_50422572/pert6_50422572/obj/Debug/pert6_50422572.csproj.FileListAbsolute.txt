@@ -1,0 +1,7 @@
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\bin\pert6_50422572.dll.config
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\bin\pert6_50422572.dll
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\bin\pert6_50422572.pdb
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\obj\Debug\pert6_50422572.csproj.AssemblyReference.cache
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\obj\Debug\pert6_50422572.csproj.CoreCompileInputs.cache
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\obj\Debug\pert6_50422572.dll
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_50422572\pert6_50422572\obj\Debug\pert6_50422572.pdb

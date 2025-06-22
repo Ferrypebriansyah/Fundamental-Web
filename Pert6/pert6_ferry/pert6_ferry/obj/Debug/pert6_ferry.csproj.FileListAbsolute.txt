@@ -1,0 +1,7 @@
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\bin\pert6_ferry.dll.config
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\bin\pert6_ferry.dll
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\bin\pert6_ferry.pdb
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\obj\Debug\pert6_ferry.csproj.AssemblyReference.cache
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\obj\Debug\pert6_ferry.csproj.CoreCompileInputs.cache
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\obj\Debug\pert6_ferry.dll
+C:\Users\Ferry Pebriansyah\Documents\coding\Lepkom_Tutor\Pert6\pert6_ferry\pert6_ferry\obj\Debug\pert6_ferry.pdb
